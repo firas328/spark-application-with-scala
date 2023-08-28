@@ -5,5 +5,5 @@ spark-submit \
   --deploy-mode client \
   --executor-memory 1g \
   --executor-cores 2 \
-  #reffers to app jar path
+  #reffers to app jarPath
    %2
